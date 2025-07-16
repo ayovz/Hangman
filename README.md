@@ -23,6 +23,6 @@ A traditional Hangman game implemented in Python, featuring:
 ```bash
 git clone https://github.com/ayovz/Hangman.git
 cd Hangman
-python3 hangman.py
+python3 main.py
 ```
 
